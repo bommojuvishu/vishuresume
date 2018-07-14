@@ -1,0 +1,114 @@
+{
+	"name": "Bommoju Vishwanath",
+	"email": "justvishu91@gmail.com",
+	"phone": "9666153453",
+	"image": "http://udemy-images.udemy.com/user/200_H/9489058_849d.jpg",
+	"website": "programmingbuddy.club",
+	"twitter": "@vishu_rj",
+	"twitterURL": "https://twitter.com/vishu_rj",
+	"experiences" : [
+		{
+			"title" : "Lead Developer",
+			"period": "2015 - Present",
+			"company": "Startup Hubs, San Francisco",
+			"companyURL": "http://programmingbuddy.club",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		},
+		{
+			"title" : "Senior Software Engineer",
+			"period": "2014 - 2015",
+			"company": "Google, London",
+			"companyURL": "http://programmingbuddy.club",
+			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+		}
+	],
+	"projects": [
+		{
+			"name":"Velocity",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"DevStudio",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Tempo",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Atom",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Delta",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "React",
+			"percent": "90%"
+		},
+		{
+			"name": "Javascript",
+			"percent": "90%"
+		},
+		{
+			"name": "HTML & CSS",
+			"percent": "70%"
+		},
+		{
+			"name": "Bootstrap",
+			"percent": "70%"
+		},
+		{
+			"name": "Android",
+			"percent": "80%"
+		},
+		{
+			"name": "Powershell",
+			"percent": "70%"
+		},
+		{
+			"name": "Core Java",
+			"percent": "70%"
+		}
+	],
+	"education": [
+		{
+			"degree": "MSc in Computer Science",
+			"university": "University of London",
+			"period": "2011 - 2012"
+		},
+		{
+			"degree": "BSc in Applied Mathematics",
+			"university": "Bristol University",
+			"period": "2007 - 2011"
+		}
+	],
+	"languages": [
+		{
+			"name":"Telugu",
+			"details": "Native"
+		},
+		{
+			"name":"English",
+			"details": "Professional"
+		},
+		{
+			"name":"Hindi",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Trekking",
+		"Listening to Music",
+		"Chess",
+		"Coding"
+	]
+}
