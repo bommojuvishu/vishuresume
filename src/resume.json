@@ -11,35 +11,25 @@
 			"title" : "Senior Systems Engineer",
 			"period": "2014 - present",
 			"company": "Infosys, Hyderabad",
-			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"companyURL": "https://www.infosys.com",
+			"details": "Worked as script Automation Engineer. Automated the work flows in the project for efficient effect."
 		}
 	],
 	"projects": [
 		{
-			"name":"Velocity",
+			"name":"",
 			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"detail": "Received Google internship from Udacity in all India Level"
 		},
 		{
 			"name":"DevStudio",
 			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"detail": "Written technology related articles to EENADU newspaper"
 		},
 		{
 			"name":"Tempo",
 			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Atom",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Delta",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"detail": "Attended 2018 Google App Summit"
 		}
 	],
 	"skills": [

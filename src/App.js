@@ -112,17 +112,32 @@ class App extends Component {
 
                 {this.renderExperiences()}
 
+                <section className="section summary-section">
+                    <div className="summary">
+                      <ul styles="list-inline">
+                        <li className="list-inline-item">Shell Script and Windows batch commands to automate the receptive tasks  </li>
+                        <li className="list-inline-item">Developed GUI based automation tools to reduce the work load </li>
+                        <li className="list-inline-item">Developed Speed Buttons tool, that execute the commands on the servers parallel. Hence time taken to execute the N number of servers is time taken only one server </li>
+                        <li className="list-inline-item">Troubleshooting agent problems.</li>
+                        <li className="list-inline-item">Performing hourly checks of SCOM application and troubleshooting the problems.</li>
+                        <li className="list-inline-item">Knowing the process and automating required solution for the process</li>
+                        <li className="list-inline-item">Defining Project Team roles and responsibilities, thereby providing support for its successful completion</li>
+                      </ul>
+                    </div>
+                </section>
+
             </section>
 
             <section className="section projects-section">
-                <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
+                <h2 className="section-title"><i className="fa fa-archive"></i>Achievements</h2>
                 <div className="intro">
-                    <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
+
                 </div>
 
                 {this.renderProjects()}
 
             </section>
+
 
             <section className="skills-section section">
                 <h2 className="section-title"><i className="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
