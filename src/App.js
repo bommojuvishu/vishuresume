@@ -66,7 +66,7 @@ class App extends Component {
             <div className="profile-container">
                 <img className="profile" src="assets/images/profile.png" alt="" />
                 <h1 className="name">{resume.name}</h1>
-                <h3 className="tagline">Full Stack Developer</h3>
+                <h3 className="tagline">Frontend Developer</h3>
             </div>
 
             <div className="contact-container container-block">
@@ -103,7 +103,7 @@ class App extends Component {
             <section className="section summary-section">
                 <h2 className="section-title"><i className="fa fa-user"></i>Career Profile</h2>
                 <div className="summary">
-                    <p>Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can <a href="http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.</p>
+                    <p>I am a quick learner and hardworking freshly graduated Computer student looking for Career oppurtunities for self and organizational growth</p>
                 </div>
             </section>
 
